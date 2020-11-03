@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         
         print("除了写代码")
         
-        print("还是写代码")
+        print("还是没有写代码")
 
     }
 
