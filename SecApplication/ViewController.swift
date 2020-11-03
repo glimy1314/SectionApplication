@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("除了写代码")
+        
+        print("还是写代码")
+
     }
 
 
